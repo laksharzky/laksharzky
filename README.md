@@ -32,12 +32,7 @@ Here are some ideas to get you started:
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="laksharzky's GitHub Stats" src=https://github-readme-stats.laksharzky.vercel.app/api?username=laksharzky&show_icons=true&hide_border=true" />
-
-</details>
 
 
 

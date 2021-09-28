@@ -32,4 +32,4 @@
 [twitter]: https://twitter.com/laksharzky
 [instagram]: https://instagram.com/laksharzky
 [linkedin]: https://linkedin.com/in/laksharizky
-[email]: https://mailto:lakshaaulia3@gmail.com
+[email]: mailto:lakshaaulia3@gmail.com

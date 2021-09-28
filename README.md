@@ -25,7 +25,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laksharzky&show_icons=true&locale=en" alt="laksharzky" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laksharzky&theme=blue-green" alt="laksharzky" /></p>
 </details>
 
 [twitter]: https://twitter.com/laksharzky

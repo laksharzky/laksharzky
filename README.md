@@ -8,6 +8,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="LakshaRizky | Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][email]
 [<img align="left" alt="LakshaRizky | Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="LakshaRizky | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="LakshaRizky | Instagram" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -31,3 +32,4 @@
 [twitter]: https://twitter.com/laksharzky
 [instagram]: https://instagram.com/laksharzky
 [linkedin]: https://linkedin.com/in/laksharizky
+[email]: https://mailto:lakshaaulia3@gmail.com

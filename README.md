@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Laravel, Express.js might be next
+- 🌱 I’m currently learning Laravel, go, and Express.js might be next
 - 🥅 2021 Goals: Live happily
 - ⚡ Fun fact: love listening music
 

@@ -1,4 +1,4 @@
-### Hi there I'm Laksha👋
+### Hi I'm Laksha👋
 
 
 
